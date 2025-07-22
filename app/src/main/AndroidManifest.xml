@@ -17,7 +17,7 @@
         android:theme="@style/Theme.MyLocationTracker">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCW4MMBtuMlq1ld1S2Zpkk57Lmumga9mvM" />
+            android:value="AIzaSyC-hSez4i6owJxPIo_fI7KelfKGsYgaKw4" />
 
         <activity
             android:name=".MapsActivity"
